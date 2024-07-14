@@ -7,7 +7,7 @@ About RoadFighters: RoadFighters is a simple fighting game with hit based health
 
 - [RoadFighters code](https://github.com/floro-neto/Paradigmas/tree/main/gameCode)
 - [Assets](https://github.com/floro-neto/Paradigmas/tree/main/assets)
-- [sprites](https://github.com/floro-neto/Paradigmas/tree/main/sprites)
+- [Sprites](https://github.com/floro-neto/Paradigmas/tree/main/sprites)
 
 ## Sobre Lua / About Lua(A brazilian programing language):
 
