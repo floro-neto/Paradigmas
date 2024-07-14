@@ -5,7 +5,9 @@
 ## Projeto final de Paradigmas / Final project done in Programming paradigms:
 About RoadFighters: RoadFighters is a simple fighting game with hit based health and one simple attack(also has an working in progress shooting attack)
 
-- [RoadFighters]()
+- [RoadFighters code](https://github.com/floro-neto/Paradigmas/tree/main/gameCode)
+- [Assets](https://github.com/floro-neto/Paradigmas/tree/main/assets)
+- [sprites](https://github.com/floro-neto/Paradigmas/tree/main/sprites)
 
 ## Sobre Lua / About Lua(A brazilian programing language):
 
